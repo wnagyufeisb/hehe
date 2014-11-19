@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(int argc,char * argv){
-	printf("Hello WYF!\n");
+	printf("WYF!\n");
 	return 0;
 }
