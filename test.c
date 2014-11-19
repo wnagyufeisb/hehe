@@ -1,5 +1,8 @@
 #include <stdio.h>
 int main(int argc,char * argv){
-	printf("Hello WYF!\n");
+for(int i=0;i<10;i++)
+{
+	printf("Hi LZF!\n");
+}
 	return 0;
 }
