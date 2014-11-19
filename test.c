@@ -3,7 +3,7 @@ int main(int argc,char * argv){
 	printf("WYF!\n");
 	for(int i=0;i<10;i++)
 	{
-		printf("Hi LZP!\n");
+		printf("Hi LZPpppppp!\n");
 	}
 	return 0;
 }
